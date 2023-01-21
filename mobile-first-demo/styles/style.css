@@ -6,6 +6,7 @@
 :root{
    --background-color: #FFFECA;
    --text-color: #0000FF;
+   --facts-color: #FFE400;
 }
 
 body{
@@ -88,15 +89,16 @@ position: relative;
    width: 90%;
    margin: 80px auto 0 auto;
    position: relative;
-   color: pink;
+   color: black;
 }
 
 .facts-and-numbers h2{ 
    font-weight: 700;
-   font-size: 19px;
+   font-size: 21px;
    text-align: center;
    margin: auto 90px auto 90px;
-   color: purple;
+   color: var(--text-color);
+   padding-bottom: 25px;
 }
 
 .facts-and-numbers ul{
@@ -109,12 +111,17 @@ position: relative;
 }
 
 .facts-and-numbers li{
-   background-color: black;
+   background-color: var(--facts-color);
    width: fit-content;
    padding: 5px 12px;
    border-radius: 50px;
    font-size: 18px;
    line-height: 30px;
+}
+
+span{
+   font-weight: 700;
+   padding-right: 5px;
 }
 
 .middle{
@@ -130,22 +137,41 @@ position: relative;
 
 .middle-title{
    position: absolute;
-   width: 85%;
+   width: 70%;
    height: 50px;
-   padding: 15px 13px 7px 26px;
+   padding: 15px 15px 16px 20px;
    background-color: #FFFFFF;
    color: var(--text-color);
    font-size: 19px;
-   left: 53px;
-   top: 215px;
+   right: auto;
+   top: 185px;
 }
 
 .middle-text{
-   padding: 264px 117px auto 19px ;
+   top: -5px;
+   position: relative;
+   padding-right: 13px;
+   padding-left: 20px;
+   padding-top: 20px;
+   padding-bottom: 20px;
    font-weight: 400;
    font-size: 15px;
    line-height: 25px;
    background-color: #FFFFFF;
    color: var(--text-color);
-   top: -5px;
 }
+
+.button1 {
+   background: #0000FF;
+   border-radius: 5px;     
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   width: 300px;
+   height: 34px;
+ }
+ 
+ .button1 p{
+    color: #FFFFFF;
+    /* padding: 7px 7px 7px 7px; */
+     }
