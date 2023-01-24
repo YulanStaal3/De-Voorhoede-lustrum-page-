@@ -305,7 +305,7 @@ span{
 
    .timeline h2{
    font-weight: 700;
-   font-size: 20px;
+   font-size: 21px;
    line-height: 29px;
    color: var(--text-color);
    }
@@ -322,6 +322,33 @@ span{
       width: 100%;
       margin-top: 8px;
    }
+
+.pictures-column{
+   width: 90%;
+   margin: 80px auto 0 auto;
+   position: relative;
+}  
+
+.pictures-column h2{
+font-weight: 700;
+font-size: 21px;
+line-height: 29px;
+text-align: center;
+}
+
+.pictures-column img{
+   padding: 0;
+   max-width: 442px;
+   width: 100%;
+   flex-wrap: wrap;
+}
+
+.images{
+   width: 50%;
+   display: flex;
+   flex: 50%;
+   float:auto;
+}
 
 
 
