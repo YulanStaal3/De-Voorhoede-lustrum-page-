@@ -61,6 +61,7 @@ position: relative;
 .intro-img{
    max-width: 442px;
    width: 100%;
+   z-index: 1;
 }
 
 .intro-title{
@@ -297,7 +298,7 @@ span{
    right: -5px;
  }
  
- @media screen and (max-width: 600px) {
+ @media screen and (min-width: 600px) {
    .timeline::after {
    left: 30px;
    }
@@ -374,15 +375,189 @@ align-items: center;
    width: 90%;
    margin: 80px auto 0 auto;
    position: relative;
+   background-color: var(--facts-color);
 }
+
 .form-yellow h2{
    font-weight: 700;
-   font-size: 39px;
+   font-size: 33px;
    line-height: 44px;
+   padding-top: 30px;
+   padding-left: 20px;
 }
 
+.form-yellow h2:hover{
+   transition: 1s;
+   transform: rotate(10deg);
+}
+
+.form-yellow h3{
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 26px;
+   color: #0000FF;
+   padding-left: 20px;
+   padding-top: 10px;
+   padding-bottom: 200px;
+}
+
+input[type="text"], input[type="email"]{
+   border: none;
+   outline: none;
+   border-bottom: 2px solid var(--text-color);
+   background-color: transparent;
+   width: 300px;
+   padding-top: 15px;
+   margin-bottom: 10px;
+   margin-left: 20px;
+   padding-bottom: 10px;
+   color: #888888;
+   }
+
+input[placeholder="Felicitatie"]{
+   padding-bottom: 50px;
+}
+
+input[type="versturen"]{
+   margin-left: 20px;
+   margin-bottom: 20px;
+   text-align: center;
+   width: 118px;
+   height: 34px;
+   border-radius: 5px;
+   border: none;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 20px;
+   background-color: var(--text-color);
+   color: #FFFFFF;
+}
+
+label[for="lname"], label[for="fname"]{
+   margin-left: 20px;
+   color: var(--text-color);
+}
+
+   .form{
+   width: 88%;
+   position: relative;
+   background-color: #FFFFFF;
+   padding-top: 20px;
+   margin: -170px 0 auto 40px;
+   }
 
 
+.messages{
+   width: 90%;
+   margin: 80px auto 0 auto;
+   position: relative;  
+}
+
+.messages h2{
+   font-weight: 700;
+   font-size: 24px;
+   line-height: 29px;
+   text-align: center;
+}
+
+.messages h3{
+   padding-left: 20px;
+   margin-top: 20px;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 35px;
+   color: var(--text-color)
+}
+
+.messages p{
+   padding-left: 20px;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 25px;
+   color: #222222;
+}
+
+.message1 {
+   border-left: 1px solid #888888;
+}
+
+@media only screen and (min-width: 1280px){
+
+main{
+   max-width: 1280px;
+   margin: 0 auto;
+}
+
+   header{
+      max-width: 1280px;
+      width: 990px;
+      height: 248px;
+      left: 158px;
+      top: 55px;
+      margin: 157px auto 0 auto;
+      }
+
+header h2{
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 36px;
+   }
+
+header h1{
+   font-weight: 700;
+   font-size: 50px;
+   line-height: 60px;
+   width: 394px;
+   width: 394px;
+   height: 118px;
+   left: 158px;
+   top: 151px;
+}
+
+.logo{
+   width: 248px;
+   height: 248px;
+   position: relative;
+   margin-top: -215px;
+}
+
+.intro{
+   position: relative;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   height: 564px;
+   }
+
+   .intro > img{
+      position: absolute;
+   }   
+   
+   .intro-title{
+      width: 100%;
+      font-weight: 700;
+      font-size: 33px;
+      line-height: 33px;
+      padding: 0 54px 0 383px;
+      position: relative;
+      top: 0;
+      left: 0;
+   }
+
+   .intro-headers{
+      margin: 0 0 0 auto;
+      padding: 50px 0 0 0;
+      width: 908px;
+   }
+   
+   .intro-text{
+      margin: 0 0 0 auto;
+      font-size: 20px;
+      line-height: 37px;
+      height: 460px; 
+      background-color: #FFFFFF;
+      padding: 50px 54px 51px 383px;
+   }
 
 
-
+}
