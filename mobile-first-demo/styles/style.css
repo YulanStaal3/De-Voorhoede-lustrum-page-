@@ -19,7 +19,7 @@ header{
 display: flex;
 flex-direction: column;
 width: 90%;
-max-width: 440px;
+max-width: 450px;
 margin-left: 20px;
 margin-right: 20px;
 margin-top: 57px;
@@ -38,6 +38,7 @@ h1{
    line-height: 44px;
    width: 300px;
    color: var(--text-color);
+
 }
 
 .logo{
@@ -48,7 +49,7 @@ h1{
 main{
 display: flex;
 flex-direction: column;
-max-width: 440px;
+max-width: 450px;
 width: 100%;
 }
 
@@ -59,7 +60,7 @@ position: relative;
 }
 
 .intro-img{
-   max-width: 442px;
+   max-width: 452px;
    width: 100%;
    z-index: 1;
 }
@@ -72,8 +73,8 @@ position: relative;
    background-color: #FFFFFF;
    color: var(--text-color);
    font-size: 19px;
-   left: 53px;
-   top: 215px;
+   left: 63px;
+   top: 260px;
 }
 
 .intro-text{
@@ -133,11 +134,12 @@ span{
    }
 
 .middle-img{
-   max-width: 442px;
+   max-width: 452px;
    width: 100%;
 }
 
 .middle-title{
+
    position: absolute;
    width: 70%;
    height: 50px;
@@ -255,18 +257,18 @@ span{
  .timeline::after {
    content: '';
    position: absolute;
-   background-color: blue;
+   background-color: var(--text-color);
    width: 2px;
    top: 0;
    bottom: 0;
    left: 50%;
-   margin-left: -4px;
+   margin-left: -174px;
  }
  
  .container {
    padding: 10px 40px;
    position: relative;
-   margin-left: -5px;
+   margin-left: -10px;
    width: 50%;
  }
  
@@ -298,11 +300,11 @@ span{
    right: -5px;
  }
  
- @media screen and (min-width: 600px) {
+ @media screen and (min-width: 1280px) { 
    .timeline::after {
-   left: 30px;
-   }
-}
+   left: 31px;
+   } 
+
    .container {
    width: 100%;
    padding-left: 60px;
@@ -340,7 +342,7 @@ span{
    }
 
    .timeline-img{
-      max-width: 442px;
+      max-width: 452px;
       width: 100%;
       margin-top: 8px;
    }
@@ -363,7 +365,7 @@ align-items: center;
 
 .pictures-column img{
    padding: 0;
-   max-width: 442px;
+   max-width: 452px;
    flex-wrap: wrap;
 }
 
@@ -558,6 +560,5 @@ header h1{
       background-color: #FFFFFF;
       padding: 50px 54px 51px 383px;
    }
-
 
 }
