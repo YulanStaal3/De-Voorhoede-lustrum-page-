@@ -11,8 +11,16 @@ Omdat de verhoede dit jaar 10 jaar bestaat, willen ze graag een speciale 'lustru
 
 ## Kenmerken
 
-De website is gebouwd met HTML & CSS. Ook heb ik gebruik gemaakt van Figma om het design goed na te kunnen maken. 
+De website is gebouwd met HTML & CSS. 
+Hieronder staan nog wat extra tools die ik gebruikt heb om de website te kunnen maken:
 
+Tools
+
+- Visual Studio Code
+
+- Figma
+
+- iPad
 
 ## Licentie
 
