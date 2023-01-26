@@ -1,15 +1,19 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+
+De Voorhoede, Lustrum pagina.
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+
+Omdat de verhoede dit jaar 10 jaar bestaat, willen ze graag een speciale 'lustrum' pagina. Op deze pagina staat onder andere highlights van de afgelopen 10 jaar. Verder is er een mooi interview te lezen en een mooie tijdlijn van de afgelopen 10 jaar te zien. Ook kun je door het formulier, de voorhoede feliciteren of een persoonlijk berichtje sturen.
+
+<img width="526" alt="Schermafbeelding 2023-01-26 om 17 12 58" src="https://user-images.githubusercontent.com/112861488/214889646-1d93bc6e-df76-420f-9b93-ac492191fb3e.png">
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+
+De website is gebouwd met HTML & CSS. Ook heb ik gebruik gemaakt van Figma om het design goed na te kunnen maken. 
 
 
 ## Licentie
