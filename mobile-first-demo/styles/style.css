@@ -73,7 +73,7 @@ position: relative;
    background-color: #FFFFFF;
    color: var(--text-color);
    font-size: 19px;
-   left: 63px;
+   left: 61px;
    top: 260px;
 }
 
@@ -139,7 +139,6 @@ span{
 }
 
 .middle-title{
-
    position: absolute;
    width: 70%;
    height: 50px;
@@ -148,7 +147,7 @@ span{
    color: var(--text-color);
    font-size: 19px;
    right: auto;
-   top: 185px;
+   top: 230px;
 }
 
 .middle-text{
@@ -253,20 +252,20 @@ span{
    max-width: 100%;
    margin: 80px auto 0 auto
  }
- 
+
  .timeline::after {
    content: '';
    position: absolute;
-   background-color: var(--text-color);
    width: 2px;
+   background-color: var(--text-color);
    top: 0;
    bottom: 0;
    left: 50%;
-   margin-left: -174px;
+   margin-left: -9px;
  }
- 
+
  .container {
-   padding: 10px 40px;
+   padding: 10px 50px;
    position: relative;
    margin-left: -10px;
    width: 50%;
@@ -277,7 +276,7 @@ span{
    position: absolute;
    width: 25px;
    height: 25px;
-   right: -17px;
+   left: 215px; 
    background-color: blue;
    top: 58px;
    border-radius: 50%;
@@ -292,25 +291,17 @@ span{
    left: 50%;
  }
  
- .right::after {
-   left: -10px;
- }
- 
- .left::after {
-   right: -5px;
- }
- 
- @media screen and (min-width: 1280px) { 
+ @media screen and (max-width: 600px) {
    .timeline::after {
    left: 31px;
-   } 
-
+   }
+ 
    .container {
    width: 100%;
    padding-left: 60px;
    padding-right: 20px;
    }
-   
+
    .left::after, .right::after {
    left: 20px;
    }
@@ -318,7 +309,7 @@ span{
    .right {
    left: 0%;
    }
-
+ }
    .timeline h3{
    font-weight: 400;
    font-size: 16px;
@@ -347,6 +338,7 @@ span{
       margin-top: 8px;
    }
 
+
 .pictures-column{
    width: 90%;
    margin: 80px auto 0 auto;
@@ -360,7 +352,8 @@ span{
 font-weight: 700;
 font-size: 21px;
 line-height: 29px;
-align-items: center;
+margin-left: 100px;
+margin-bottom: 20px;
 }
 
 .pictures-column img{
@@ -395,6 +388,7 @@ align-items: center;
 
 .form-yellow h3{
    font-weight: 400;
+   width: 95%;
    font-size: 20px;
    line-height: 26px;
    color: #0000FF;
@@ -439,6 +433,7 @@ label[for="lname"], label[for="fname"]{
    margin-left: 20px;
    color: var(--text-color);
 }
+
 
    .form{
    width: 88%;
