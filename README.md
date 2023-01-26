@@ -4,12 +4,12 @@
 
 De Voorhoede, Lustrum pagina.
 
+![Schermafbeelding 2023-01-26 om 17 20 00](https://user-images.githubusercontent.com/112861488/214890332-0a94f40f-b6f2-4d49-aee1-acbdb0a85000.jpeg)
+
+
 ## Beschrijving
 
 Omdat de verhoede dit jaar 10 jaar bestaat, willen ze graag een speciale 'lustrum' pagina. Op deze pagina staat onder andere highlights van de afgelopen 10 jaar. Verder is er een mooi interview te lezen en een mooie tijdlijn van de afgelopen 10 jaar te zien. Ook kun je door het formulier, de voorhoede feliciteren of een persoonlijk berichtje sturen.
-
-<img width="526" alt="Schermafbeelding 2023-01-26 om 17 12 58" src="https://user-images.githubusercontent.com/112861488/214889646-1d93bc6e-df76-420f-9b93-ac492191fb3e.png">
-
 
 ## Kenmerken
 
