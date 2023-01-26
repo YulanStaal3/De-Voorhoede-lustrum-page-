@@ -1,8 +1,6 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-
-De Voorhoede, Lustrum pagina.
+# De Voorhoede, Lustrum pagina.
 
 ![Schermafbeelding 2023-01-26 om 17 20 00](https://user-images.githubusercontent.com/112861488/214890332-0a94f40f-b6f2-4d49-aee1-acbdb0a85000.jpeg)
 
