@@ -12,6 +12,7 @@
 - kenmerken
 - tools
 - licentie 
+- checklist
 
 ## Opdrachtgever
 
@@ -33,6 +34,19 @@ Tools
 - Figma
 
 - iPad
+
+## Checklist
+
+:) Gelukt
+
+- Mobile first versie
+- Tijdlijn
+
+:( Niet gelukt
+
+- Volledig responsive 
+- Animatie bij het feliciteren
+- Desktop versie
 
 ## Licentie
 
