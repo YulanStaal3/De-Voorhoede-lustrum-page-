@@ -7,7 +7,7 @@
 
 # Inhoudsopgave
 
-- opdrachtgever
+- https://github.com/YulanStaal3/De-Voorhoede-lustrum-page-/blob/main/README.md#opdrachtgever
 - beschrijving
 - kenmerken
 - tools
