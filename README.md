@@ -5,24 +5,23 @@
 ![Schermafbeelding 2023-01-26 om 17 20 00](https://user-images.githubusercontent.com/112861488/214890332-0a94f40f-b6f2-4d49-aee1-acbdb0a85000.jpeg)
 
 
-# Inhoudsopgave
+# :notebook: Inhoudsopgave
 
-- Opdrachtgever
-- Beschrijving
-- Kenmerken
-- Tools
-- Licentie 
-- Checklist
+- :raising_hand: Opdrachtgever
+- :books: Beschrijving
+- :pushpin: Kenmerken
+- :white_check_mark: Checklist
+- Licentie
 
-## Opdrachtgever
+## :raising_hand: Opdrachtgever
 
 Mijn opdrachtgever voor deze leertaak is de Voorhoede, van de Voorhoede heb ik een opdracht gekregen om hun Lustrum pagina na te maken voor het 10 jarig bestaan. De Voorhoede is een bedrijf wat sites, app's, UI's en andere digitale producten met webtechnologie maakt. Ze hebben een kantoor in Amsterdam en in Delft. 
 
-## Beschrijving
+## :books: Beschrijving
 
 Omdat de verhoede dit jaar 10 jaar bestaat, willen ze graag een speciale 'lustrum' pagina. Op deze pagina staat onder andere highlights van de afgelopen 10 jaar. Verder is er een mooi interview te lezen en een mooie tijdlijn van de afgelopen 10 jaar te zien. Ook kun je door het formulier, de voorhoede feliciteren of een persoonlijk berichtje sturen.
 
-## Kenmerken
+## :pushpin: Kenmerken
 
 De website is gebouwd met HTML & CSS. 
 Hieronder staan nog wat extra tools die ik gebruikt heb om de website te kunnen maken:
@@ -35,7 +34,7 @@ Tools
 
 - iPad
 
-## Checklist
+## :white_check_mark: Checklist
 
 :) Gelukt
 
