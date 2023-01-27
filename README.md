@@ -7,12 +7,12 @@
 
 # Inhoudsopgave
 
-- opdrachtgever
-- beschrijving
-- kenmerken
-- tools
-- licentie 
-- checklist
+- Opdrachtgever
+- Beschrijving
+- Kenmerken
+- Tools
+- Licentie 
+- Checklist
 
 ## Opdrachtgever
 
