@@ -7,7 +7,7 @@
 
 # Inhoudsopgave
 
-- https://github.com/YulanStaal3/De-Voorhoede-lustrum-page-/blob/main/README.md#opdrachtgever
+- opdrachtgever
 - beschrijving
 - kenmerken
 - tools
@@ -15,7 +15,7 @@
 
 ## Opdrachtgever
 
-Mijn opdrachtgever voor deze leertaak is de Vorhoede, van de Voorhoede heb ik een opdracht gekregen om hun Lustrum pagina na te maken voor jet 10 jarig bestaan. De Voorhoede heeft een kantoor in Amsterdam en in Delft. 
+Mijn opdrachtgever voor deze leertaak is de Vorhoede, van de Voorhoede heb ik een opdracht gekregen om hun Lustrum pagina na te maken voor het 10 jarig bestaan. De Voorhoede heeft een kantoor in Amsterdam en in Delft. 
 
 ## Beschrijving
 
