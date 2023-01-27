@@ -15,7 +15,7 @@
 
 ## Opdrachtgever
 
-Mijn opdrachtgever voor deze leertaak is de Vorhoede, van de Voorhoede heb ik een opdracht gekregen om hun Lustrum pagina na te maken voor het 10 jarig bestaan. De Voorhoede heeft een kantoor in Amsterdam en in Delft. 
+Mijn opdrachtgever voor deze leertaak is de Voorhoede, van de Voorhoede heb ik een opdracht gekregen om hun Lustrum pagina na te maken voor het 10 jarig bestaan. De Voorhoede is een bedrijf wat sites, app's, UI's en andere digitale producten met webtechnologie maakt. Ze hebben een kantoor in Amsterdam en in Delft. 
 
 ## Beschrijving
 
