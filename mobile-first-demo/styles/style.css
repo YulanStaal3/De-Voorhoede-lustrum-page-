@@ -180,7 +180,7 @@ span{
  }
 
  .button1:hover{
-   transform: scale(1.09);
+   transform: scale(1.1);
    transition: .6s;
  }
  
@@ -237,7 +237,7 @@ span{
 }
 
 .button2:hover{
-   transform: scale(1.09);
+   transform: scale(1.15);
    transition: .6s;
 }
 
@@ -478,7 +478,7 @@ label[for="lname"], label[for="fname"]{
    border-left: 1px solid #888888;
 }
 
-@media only screen and (min-width: 1280px){
+/* @media only screen and (min-width: 1280px){
 
 main{
    max-width: 1280px;
@@ -554,6 +554,6 @@ header h1{
       height: 460px; 
       background-color: #FFFFFF;
       padding: 50px 54px 51px 383px;
-   }
+   } */
 
-}
+
